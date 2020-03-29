@@ -21,7 +21,8 @@
 * Modifique el codigo de `mpiExample3.c` y cree un nuevo programa llamado `mpiEx3a.c` de modo que en lugar de intercambiar caracteres, se intercambien enteros. Suba su codigo a su repositorio de GitHub. 
 **Hint:** El tipo de dato para enteros en MPI es `MPI_INT`.
 
-	[mpiEx3a.c](https://github.com/Afelipe1599/Electiva-Spring-2019-1667639/blob/master/mpiEx3a.c) 
+	[mpiEx3a.c](https://github.com/Afelipe1599/Electiva-Spring-2019-1667639/blob/master/mpiEx3a.c)
     
+*  Escriba un programa de MPI que tenga 6 procesos y se comporte como sugiere la siguiente figura. El proceso 0 debe recibir el valor de 5, el proceso 1 debe recibir el valor de 0 y asi sucesivamente.
 
-
+	[mpiEx3a.b](https://github.com/Afelipe1599/Electiva-Spring-2019-1667639/blob/master/mpiEx3b.c)
